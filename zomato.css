@@ -299,7 +299,7 @@ p {
     flex-direction: column;
     justify-content: end;
     padding: 16px;
-    background-image: url(hotelimg.jpg);
+    background-image: url(./images/hotelimg.jpg);
     background-position: center;
     background-size: cover;
     height: 280px;
@@ -312,7 +312,7 @@ p {
     flex-direction: column;
     justify-content: end;
     padding: 16px;
-    background-image: url(hotelimg1.avif);
+    background-image: url(./images/hotelimg1.avif);
     background-position: center;
     background-size: cover;
     height: 280px;
@@ -325,7 +325,7 @@ p {
     flex-direction: column;
     justify-content: end;
     padding: 16px;
-    background-image: url(hotelimg2.jpg);
+    background-image: url(./images/hotelimg2.jpg);
     background-position: center;
     background-size: cover;
     height: 280px;
@@ -338,7 +338,7 @@ p {
     flex-direction: column;
     justify-content: end;
     padding: 16px;
-    background-image: url(hotelimg3.jpg);
+    background-image: url(./images/hotelimg3.jpg);
     background-position: center;
     background-size: cover;
     height: 280px;
