@@ -937,7 +937,7 @@ p {
     }
 
     .box1 {
-        background-image: url(backgroundimg.avif );
+  background-image: url(./images/backgroundimg.avif );
         background-size: cover;
         background-position: center;
         height: auto;
@@ -1019,7 +1019,7 @@ p {
     }
 
     .box1 {
-        background-image: url(backgroundimg.avif );
+      background-image: url(./images/backgroundimg.avif );
         background-size: cover;
         background-position: center;
         height: 390px;
